@@ -1,1 +1,1 @@
-# Mynta-clone
+# Myntra-clone
